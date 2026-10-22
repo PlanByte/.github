@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/logoFinal_black.png" alt="Nova logo" width="100" />
+<img src="../assets/logoFinal_black.png" alt="Nova logo" width="100" />
 
 # PlanByte
 
